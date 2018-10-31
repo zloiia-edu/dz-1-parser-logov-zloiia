@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @file main.cpp
  * @author Dmitriy Fedin (fedin.da@gmail.com)
  * @brief Учебная программа для разбора логов 
@@ -8,6 +8,8 @@
  * @copyright zloiia (c) 2018
  * 
  */
+
+//А этот коммментарий я добавил
 
 #include <iostream> //подключение библиотеки ввода-вывода в терминал
 #include <string> //подключение библиотеки для работы со строками
